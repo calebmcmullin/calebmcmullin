@@ -1,7 +1,7 @@
 
 ## Hi there 👋 I'm Caleb!
 
-### `⚡ This is my Tech Stack`
+### `⚡ Tech Stack`
 
 <table>
   <tr>
